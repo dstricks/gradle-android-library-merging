@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DeleteZone specific attributes. These attributes are used to customize
+         a DeleteZone view in XML files. -->
+    <declare-styleable name="MyTextView">
+        <!-- Orientation of the delete zone. -->
+        <attr name="customValue" format="integer"/>
+    </declare-styleable>
+</resources>
